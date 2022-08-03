@@ -9,3 +9,8 @@ organization_member = 14
 number_of_funny_friends = 4.5
 twelve_over_five = 2.4
 brain_cells_working = 1.5
+
+is_funny = false #:(
+is_hungry = true #:(
+has_food = true #yesshhhhh
+hopes_nobody_read = true # ^_^"
